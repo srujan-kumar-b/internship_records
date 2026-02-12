@@ -1,0 +1,9 @@
+order_id,customer_id,amount,quantity,date,status
+101,1,2500,2,01-01-2026,Shipped
+102,2,,1,02-01-2026,Pending
+,3,1800,,03-01-2026,Delivered
+104,4,2200,3,04-01-2026,Shipped
+105,5,3000,4,05-01-2026,Delivered
+105,5,3000,4,05-01-2026,Delivered
+,7,,2,07-01-2026,Pending
+108,8,1500,,08-01-2026,Shipped
