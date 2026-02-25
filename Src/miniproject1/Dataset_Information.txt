@@ -1,0 +1,6 @@
+Dataset Name: Customer Analytics Dataset
+Source: Synthetic data generator
+Rows: ~500
+Columns: Demographics, Income, Spending Behavior
+Contains: Missing values, duplicates, outliers
+Purpose: EDA and ML practice
